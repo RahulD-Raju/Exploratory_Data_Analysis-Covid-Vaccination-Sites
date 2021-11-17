@@ -1,4 +1,4 @@
-# Metis-Project-1
+# Exploratory Data Analysis/NYC-MTA Covid Vaccination Site Placement
 
 Prepared by Rahul D. Raju
 
